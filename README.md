@@ -7,10 +7,10 @@ The website is created by Samuel Lam (WCR External Affairs Officer 2023-26), and
 > **How to use:** you can copy the hazard items and their suggested mitigation measures. Bear in mind the list is not exhaustive, and you should tailor-made your assessment for your events' needs.
 
 Codes
-🔴 - suitable for all events that involve this risk assessment entry
-🟡 - suitable for some events that involve this risk assessment entry
-C - College is responsible
-O - Organiser is responsible
+- 🔴 - suitable for all events that involve this risk assessment entry
+- 🟡 - suitable for some events that involve this risk assessment entry
+- C - College is responsible
+- O - Organiser is responsible
 
 # 1. General
 
