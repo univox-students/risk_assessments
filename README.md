@@ -84,7 +84,7 @@ O - Organiser is responsible
     1. 🟡/C - for events that involve specialist trainings (see 3) or physical activities (see 4), there are evidence of parental consent
 1. Accessibility
     1. 🔴/CO - accessibility plan in place prior to the event, e.g., organisers knowing who to contact for access to lift
-    1. 🟡/C - accessible route clearly signposted
+    1. 🟡/CO - accessible routes are cleared and signposted
 1. Other welfare concerns
 
 # 3. Self or external catering
