@@ -130,9 +130,9 @@ Risk rating = likelihood x severity
 | :-- | :-- | :-- |
 | 1, 2, 3 | 3 x 3 = 9 | 1 x 2 = 2 |
 
-- external bands would wait at the Porters' lodge
-- external bands attended by at least one College member, and are guided to the bar and band room
-- external bands are aware of the College's expectation on their conducts (this could come as a form of informal reminder)
+- (O) external bands would wait at the Porters' lodge
+- (O) external bands attended by at least one College member, and are guided to the bar and band room
+- (O) external bands are aware of the College's expectation on their conducts (this could come as a form of informal reminder)
 
 ## 2.4 Minors (Under 18)
 | Affected Personnel | Unmitigated risk rating | Mitigated risk rating |
